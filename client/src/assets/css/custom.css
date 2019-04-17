@@ -1,0 +1,39 @@
+.react-bootstrap-table table thead {
+    background: #023061;
+    color: #fff;
+}
+
+#app-container .sidebar .main-menu {
+    background: #820054;
+}
+
+#app-container .sidebar .main-menu ul li i {
+    color: #fff;
+}
+
+#app-container .sidebar .main-menu ul li span {
+    color: #fff;
+}
+
+#root {
+    background: #f8f8f8;
+}
+
+#app-container .sidebar .main-menu ul li a:hover, #app-container .sidebar .main-menu ul li a:focus {
+    color: #922c88;
+    background: #540237;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #023061;
+    border-color: #023061;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #820054;
+    border-color: #820054;
+}
+.ps__rail-y {
+    display: none !important;
+}

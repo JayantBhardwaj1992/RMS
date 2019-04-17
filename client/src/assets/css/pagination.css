@@ -1,0 +1,64 @@
+.page-item .page-link.next {
+    background: #007bff;
+    color: white;
+    border: 1px solid #007bff;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.page-item .page-link.first, .page-item .page-link.last{
+    background: transparent;
+    color: #007bff;
+    border: 1px solid #007bff;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.page-item .page-link.first:hover, .page-item .page-link.last:hover {
+    background: #007bff;
+    color: white;
+    border: 1px solid #007bff;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.page-item .page-link.prev, .page-item .page-link.prev{
+    background: #007bff;
+    border: 1px solid #007bff;
+    color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.page-item .page-link:hover {
+    background-color: transparent;
+    border-color: #007bff;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.page-item .page-link {
+    outline: initial !important;
+    box-shadow: initial !important;
+    line-height: 1.7;
+    border-radius: 0px !important;
+    min-width: 38px;
+    text-align: center;
+    height: 38px;
+    padding: 0.55rem 0;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.page-item {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.btn-outline-dark:hover{
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.btn-outline-dark{
+    color: #007bff;
+    background-color: transparent;
+    background-image: none;
+    border-color: #007bff;
+}
